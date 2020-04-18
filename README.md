@@ -2,10 +2,10 @@
 Lectures for web programming
 <!DOCTYPE html>
 <html>
-  <h1>
+  <head>
     <title> Give me a break</title>
          
-  </h1>
+  </head>
      <body>
        I am struggling to get things started. Please tell 
        them to get out of dodge city. Grubby and sticky hav e already taken 
