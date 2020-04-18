@@ -9,7 +9,8 @@ Lectures for web programming
      <body>
        I am struggling to get things started. Please tell 
        them to get out of dodge city. Grubby and sticky hav e already taken 
-       control of the Biscuits.
+       control of the Biscuits. 
+       'Very shifty!', those girls. 
       </body>
   </html>  
      
