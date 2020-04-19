@@ -3,6 +3,27 @@
 <head>
 <title>Enough Challenges</title>
 <style>
+@media (min-width: 1000px) {
+  h1::before{
+      content: "Guys come to my Aid!"
+}
+}
+@media (max-width: 999px) {
+  h1::before{
+      content: "Help!"
+
+  }
+}
+@media (min-width: 1000px) {
+     h1::before{
+      font-style: italic;
+     }
+}
+@media (max-width:999px) {
+     h1::before{
+       font-style: normal;
+     }
+}
   div {text-align: center;
     font-weight: bold;
     font-size: 16px;
@@ -33,7 +54,7 @@
 </head>
   <body>
     <div>
-    <h1> Guys come to my aid</h1>
+    <h1></h1>
 
        Guys, this is quite tricky.
     </div>
