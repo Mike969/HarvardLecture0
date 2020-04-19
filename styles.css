@@ -9,3 +9,9 @@ p {
 ol>li {
   color:green;
 }
+input[type=text] {
+  background-color: cyan;
+}
+input[type=number] {
+  background-color: magenta
+}
